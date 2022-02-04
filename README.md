@@ -8,6 +8,6 @@
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently living in Venezuela
 - 📫 How to find me: 
-  - :instagram: [Instagram](https://www.instagram.com/bozaleonantonio/)
+  - :inst: [Instagram](https://www.instagram.com/bozaleonantonio/)
   - :bulb: [Projects Portfolio](https://antonyboza.github.io/Portfolio/)
   - :office: [LinkedIn](https://www.linkedin.com/in/antonio-boza/?locale=en_US)
