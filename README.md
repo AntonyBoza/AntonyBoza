@@ -1,4 +1,4 @@
-# - Antonio Boza
+# Antonio Boza
 ## Data Scientist 
 
 - I'm currently working on a Data strategy for a cloud-based billing and accountable enterprise application
