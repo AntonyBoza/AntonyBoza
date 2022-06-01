@@ -1,7 +1,7 @@
 # Antonio Boza
 ## Data Scientist 
 
-- I'm currently working on a Data strategy for a cloud-based billing and accountable enterprise application
+- I'm currently working on a Data strategy for a cloud-based billing and accounting enterprise application
 - I'm currently learning Data Engineering and AWS Cloud 
 - I'm looking to collaborate on Data and AI Projects
 
@@ -12,5 +12,7 @@
   - :pencil2: [Instagram](https://www.instagram.com/bozaleonantonio/)
   - :bulb: [Projects Portfolio](https://antonyboza.github.io/Portfolio/)
   - :office: [LinkedIn](https://www.linkedin.com/in/antonio-boza/?locale=en_US)
+ 
+ ## PROJECTS DVELOPED
 
 [![AntonyBoza's github stats](https://github-readme-stats.vercel.app/api?username=AntonyBoza&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/AntonyBoza/github-readme-stats)
