@@ -1,8 +1,8 @@
 # Antonio Boza
-## Data Scientist 
+## Data Scientist / AI Engineer
 
-- I'm currently working on a Data strategy for a cloud-based billing and accounting enterprise application
-- I'm currently learning Data Engineering and AWS Cloud 
+- I'm currently working on integrating LLMs into Applications
+- I'm learning Data Engineering and AWS Cloud 
 - I'm looking to collaborate on Data and AI Projects
 
 - :zap: I love music, programming, chess, and books
